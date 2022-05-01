@@ -1,0 +1,51 @@
+.topnav{
+    display: flex;
+    flex-direction: row;
+}
+.tab{
+    color: palevioletred;
+}
+.middle{
+    display: flex;
+    flex-direction: row;
+}
+.button{
+    background-color:  #EC4067;
+    color: white;
+}
+.ticket{
+    margin-left: 400px;
+}
+.middle{
+    margin-left: 50px;
+}
+.middle{
+    margin-top: 80px;
+}
+.desk{
+    color: palevioletred;
+}
+.lin{
+    margin-left: 50px;
+}
+.tin{
+    margin-left: 130px;
+}
+.tin{
+    margin-bottom: 350px;
+}
+.lin{
+    margin-top: 100px;
+}
+.tin{
+    margin-top: -30px;
+}
+.stories{
+    margin-top: -310px;
+}
+.stories{
+    margin-left: 50px;
+}
+.orient{
+    margin-left: 400px;
+}
