@@ -86,3 +86,13 @@
 .party{
     margin-left: 50px;
 }
+.tech{
+    display: flex;
+    flex-direction: row;
+}
+.tech{
+    margin-left: 50px;
+}
+.tun{
+    margin-left: 10px;
+}
