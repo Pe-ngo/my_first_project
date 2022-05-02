@@ -1,3 +1,6 @@
+*{
+    font-family: 'Nunito', sans-serif;
+}
 .topnav{
     display: flex;
     flex-direction: row;
@@ -104,5 +107,9 @@
     margin-left: 50px;
 }
 .font{
-    font-size: x-small;
+    font-size: smaller;
+}
+.pad{
+    float: left;
+    padding: 5px;
 }
