@@ -96,3 +96,13 @@
 .tun{
     margin-left: 10px;
 }
+.webdv{
+    display: flex;
+    flex-direction: row;
+}
+.webdv{
+    margin-left: 50px;
+}
+.font{
+    font-size: x-small;
+}
