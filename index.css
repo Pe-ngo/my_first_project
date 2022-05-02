@@ -73,3 +73,16 @@
 .mit{
     margin-top: 250px;
 }
+.grad{
+    margin-left: 50px;
+}
+.grad{
+    display: flex;
+    flex-direction: row;
+}
+.grad{
+    margin-top: 50px;
+}
+.party{
+    margin-left: 50px;
+}
