@@ -18,6 +18,8 @@
 }
 .ticket{
     margin-left: 400px;
+    display: flex;
+    flex-direction: row;
 }
 .middle{
     margin-left: 50px;
@@ -177,15 +179,37 @@
 }
 .ticket{
     float: left;
-    padding: 5px;
+    padding: 25px;
 }
 .jab{
     color: #E30B5D;
-    border: 2px solid #E30B5D;
+    border-style: groove;
+    border-color: #E30B5D;
 }
 .cool{
     color: #E30B5D;
 }
 .still{
     color: #E30B5D;
+}
+.tech{
+    margin-top: 50px;
+}
+.last{
+    margin-top: 70px;
+}
+.go{
+    margin-top: 50px;
+}
+.ha{
+    margin-left: 15px;
+}
+.hb{
+    margin-left: 15px;
+}
+.hc{
+    margin-left: 15px;
+}
+.buton{
+    margin-left: 15px;
 }
