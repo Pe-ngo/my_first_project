@@ -143,3 +143,30 @@
 .jab{
     border-style: none;
 }
+.jab{
+    margin-left: 5px;
+    padding: 10px;
+}
+.button{
+    padding: 10px;
+}
+.ask{
+    border-style: none;
+    background-color:  #EC4067;
+    color: white;
+}
+.als{
+    border-style: none;
+    background-color:  #EC4067;
+    color: white;
+}
+.las{
+    border-style: none;
+    background-color:  #EC4067;
+    color: white;
+}
+.ak{
+    border-style: none;
+    background-color:  #EC4067;
+    color: white;
+}
