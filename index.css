@@ -182,9 +182,8 @@
     padding: 25px;
 }
 .jab{
-    color: #E30B5D;
-    border-style: groove;
-    border-color: #E30B5D;
+    color: #EC4067;
+    outline-style: auto;
 }
 .cool{
     color: #E30B5D;
@@ -212,4 +211,19 @@
 }
 .buton{
     margin-left: 15px;
+    margin-top: -10px;
+}
+.buton{
+    background-color: #EC4067;
+    color: white;
+    border-style: none;
+    padding: 10px;
+    border-radius: 4px;
+    width: 80px;
+}
+.desk{
+    margin-left: 20px;
+}
+.jab{
+    width: 100px;
 }
