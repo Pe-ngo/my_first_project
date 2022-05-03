@@ -6,7 +6,7 @@
     flex-direction: row;
 }
 .tab{
-    color: palevioletred;
+    color: #E30B5D;
 }
 .middle{
     display: flex;
@@ -26,7 +26,7 @@
     margin-top: 80px;
 }
 .desk{
-    color: palevioletred;
+    color: #E30B5D;
 }
 .lin{
     margin-left: 50px;
@@ -149,32 +149,43 @@
 }
 .button{
     padding: 10px;
+    border-radius: 4px;
 }
 .ask{
     border-style: none;
     background-color:  #EC4067;
     color: white;
+    border-radius: 4px;
 }
 .als{
     border-style: none;
     background-color:  #EC4067;
     color: white;
+    border-radius: 4px;
 }
 .las{
     border-style: none;
     background-color:  #EC4067;
     color: white;
+    border-radius: 4px;
 }
 .ak{
     border-style: none;
     background-color:  #EC4067;
     color: white;
+    border-radius: 4px;
 }
 .ticket{
     float: left;
     padding: 5px;
 }
 .jab{
-    color: #EC4067;
-    margin: #EC4067; 
+    color: #E30B5D;
+    border: 2px solid #E30B5D;
+}
+.cool{
+    color: #E30B5D;
+}
+.still{
+    color: #E30B5D;
 }
