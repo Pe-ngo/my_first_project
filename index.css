@@ -170,3 +170,11 @@
     background-color:  #EC4067;
     color: white;
 }
+.ticket{
+    float: left;
+    padding: 5px;
+}
+.jab{
+    color: #EC4067;
+    margin: #EC4067; 
+}
